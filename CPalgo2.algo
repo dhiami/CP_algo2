@@ -1,4 +1,4 @@
-ALGORITHM first-method
+ALGORITHM algo2
 VAR
     arr1,arr2 : ARRAY_OF INTEGER[20];
     i,j : INTEGER;
